@@ -36,7 +36,7 @@
 Например, я могу вывести температуру процессора просто поискав папку в нужном месте
 
 ``` shell
-akim@arthur-Surface-Pro-:~$ cat /sys/class/thermal/thermal_zone0/temp
+~ $ cat /sys/class/thermal/thermal_zone0/temp
 37000
 ```
 Теперь я знаю, что температура 37 градусов.
