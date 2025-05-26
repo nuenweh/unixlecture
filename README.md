@@ -231,3 +231,7 @@ bash ./hello.sh
 
 > Эти сочетания работают в большинстве шеллов, включая Bash и Zsh, а также в Python и некоторых других языках.
 
+## Ссылка на лекцию
+![frame](https://github.com/user-attachments/assets/b8ca68d5-d6b0-4435-bcfd-028df56ca3ed)
+
+
